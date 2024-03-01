@@ -243,6 +243,7 @@
     position: fixed;
     right: 1%;
     bottom: 2%;
+    z-index: 200;
 }
 .mascota {
     width: 80px;
